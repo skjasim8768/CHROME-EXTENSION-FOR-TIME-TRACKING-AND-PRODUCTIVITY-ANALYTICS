@@ -15,4 +15,8 @@ On the backend, a robust Node.js server powered by Express and Prisma ensures re
 Beyond basic time tracking, WebTime Tracker offers deeper insights by analyzing trends over days, weeks, or months. Users can identify patterns in their behavior, such as peak productive hours or frequent distractions, and adjust their habits accordingly. The tool is particularly useful for remote workers, students, and freelancers who want to optimize their online efficiency. With its intuitive design and powerful backend, WebTime Tracker bridges the gap between passive browsing and active time management, encouraging a healthier, more productive digital lifestyle. Whether used for self-improvement or team accountability, this tool provides the data needed to make meaningful changes in how time is spent online.
 
 The project's modular structure makes it easy to extend with additional features, such as customizable site categories, detailed analytics dashboards, or integration with productivity apps. Its open architecture allows developers to adapt the system for different use cases, from personal goal-setting to workplace productivity monitoring. By combining real-time tracking with long-term data analysis, WebTime Tracker delivers a comprehensive solution for anyone looking to take control of their digital habits and maximize their online efficiency.
+
 #output img*
+![Image](https://github.com/user-attachments/assets/6b2376b1-379c-4540-8335-5c69f8b95696)
+#folder structure img*
+![Image](https://github.com/user-attachments/assets/812f706d-8b61-4f04-b0e3-59be71889f8a)

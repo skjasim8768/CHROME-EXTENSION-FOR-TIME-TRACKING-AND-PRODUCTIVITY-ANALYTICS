@@ -1,0 +1,19 @@
+// schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model TimeEntry {
+  id      Int      @id @default(autoincrement())
+  site    String
+  seconds Int
+  date    DateTime
+  type    String
+  userId  String
+}
